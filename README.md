@@ -8,7 +8,7 @@ Revert, branch, reset, and squash your chats. Melty stays in sync with you like 
 
 ---
 
-## Meet Melty
+## Meet Melty  
 
 We're Charlie and Jackson. We're longtime friends who met playing ultimate frisbee at Brown.
 
